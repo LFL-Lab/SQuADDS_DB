@@ -253,5 +253,43 @@
         "foundry": "Your Foundry Name",
         "fabrication_recipe": "https://fabublox.com/your_recipe",
         "notes": "Additional notes about the device."
+    },
+    {
+        "design_code": "https://github.com/your_username/design_schema_DEVICENAME",
+        "contrib_info": {
+            "group": "Your Research Group",
+            "PI": "Dr. Jane Smith",
+            "institution": "Your University",
+            "uploader": "Your Name",
+            "measured_by": [
+                "Researcher A",
+                "Researcher B"
+            ],
+            "date_created": "2024-09-27",
+            "name": "Device_XYZ"
+        },
+        "measured_results": [
+            {
+                "H_params": [
+                    {
+                        "qubit_1": {
+                            "F_res_GHz": 6.116,
+                            "F_01_GHz": 4.216,
+                            "Anharmonicity_MHz": -153,
+                            "punchout_shift_MHz": 1.6672,
+                            "Extracted_g_MHz": 61,
+                            "Estimated_Dispersive_shift_KHz": 303,
+                            "L_j_nH": 9.686
+                        }
+                    }
+                ]
+            }
+        ],
+        "sim_results": [],
+        "image": "https://raw.githubusercontent.com/your_username/design_schema_DEVICENAME/main/assets/device_image.png",
+        "paper_link": "https://arxiv.org/abs/1234.5678",
+        "foundry": "Your Foundry Name",
+        "fabrication_recipe": "https://fabublok.com/your_recipe",
+        "notes": "Additional notes about the device."
     }
 ]
