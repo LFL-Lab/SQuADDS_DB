@@ -86,7 +86,11 @@
     "image": "https://github.com/LFL-Lab/design_schema_WM1/blob/main/assets/WM1_qiskit_metal.png",
     "paper_link": "https://arxiv.org/pdf/2312.13483",
     "foundry": "SQUILL",
-    "fabrication_recipe": "Confidential"
+    "fabrication_recipe": "Confidential",
+    "substrate": "Silicon",
+    "materials": "Aluminium",
+    "junction_style": "Dolan",
+    "junction_material": "Al-AlOx-Al"
   },
   {
     "design_code": "https://github.com/LFL-Lab/design_schema_dissipator",
@@ -153,7 +157,11 @@
     "image": "https://github.com/LFL-Lab/design_schema_dissipator/blob/main/Assets/dissipator1.png",
     "paper_link": "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.020321",
     "foundry": "USC Nanofab",
-    "fabrication_recipe": "https://www.fabublox.com/process-editor/31f56fb8-05c3-4f83-a5d8-8a2963a2a5e3"
+    "fabrication_recipe": "https://www.fabublox.com/process-editor/31f56fb8-05c3-4f83-a5d8-8a2963a2a5e3",
+    "substrate": "Silicon 111",
+    "materials": "Aluminium",
+    "junction_style": "Manhattan",
+    "junction_material": "Al-AlOx-Al"
   },
   {
     "design_code": "https://github.com/LFL-Lab/design_schema_MUNNIN",
@@ -208,6 +216,10 @@
     "image": "https://github.com/LFL-Lab/design_schema_MUNNIN/blob/main/Assets/muninn.png",
     "paper_link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.200401",
     "foundry": "SQUILL",
-    "fabrication_recipe": "Confidential"
+    "fabrication_recipe": "Confidential",
+    "substrate": "Silicon",
+    "materials": "Aluminium",
+    "junction_style": "Dolan",
+    "junction_material": "Al-AlOx-Al"
   }
 ]
