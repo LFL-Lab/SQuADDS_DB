@@ -40,7 +40,7 @@ There are two ways to contribute to the SQuADDS Measured Data Staging Repository
 
 ## SQuADDS API:
 
-COMING SOON!
+Follow [Tutorial 4: Contributing Experimentally-Validated Devices to the SQuADDS Database](https://lfl-lab.github.io/SQuADDS/source/tutorials/Tutorial_4_Contributing_Experimental_Data_to_SQuADDS.html)
 
 ---
 
